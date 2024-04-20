@@ -1,4 +1,4 @@
-<img align ="right" alt ="coding" width ="400" src="https://img.freepik.com/premium-photo/programmer-researching-new-technologies-generative-ai_372999-13238.jpg?w=1380"
+
 
 ### Hi there 👋
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://deluxe-profiterole-32ec84.netlify.app/](https://deluxe-profiterole-32ec84.netlify.app/)
 
-- 💬 Ask me about **Mern,react native**
+- 
 
 - 📫 How to reach me **avidhuriya@gmail.com**
 
