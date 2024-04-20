@@ -1,3 +1,5 @@
+![logo]https://img.freepik.com/premium-photo/programmer-researching-new-technologies-generative-ai_372999-13238.jpg?w=1380
+
 ### Hi there 👋
 
 <!--
