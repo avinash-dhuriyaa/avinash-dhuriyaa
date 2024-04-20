@@ -1,4 +1,4 @@
-![logo]https://img.freepik.com/premium-photo/programmer-researching-new-technologies-generative-ai_372999-13238.jpg?w=1380
+<img align ="right" alt ="coding" width ="400" src="https://img.freepik.com/premium-photo/programmer-researching-new-technologies-generative-ai_372999-13238.jpg?w=1380"
 
 ### Hi there 👋
 
