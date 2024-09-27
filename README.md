@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://deluxe-profiterole-32ec84.netlify.app/](https://avinash-dhuriya.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://avinash-dhuriya.netlify.app/](https://avinash-dhuriya.netlify.app/)
 
 - 📫 How to reach me **avidhuriya@gmail.com**
 
