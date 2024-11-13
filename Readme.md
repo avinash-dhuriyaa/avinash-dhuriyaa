@@ -4,7 +4,6 @@
 
 💫 About Me: 🌱 I’m currently learning *MERN,Data Structure*<br><br>👨‍💻 All of my projects are available at https://github.com/avinash-dhuriyaa<br><br>📫 How to reach me avidhuriya@gmail.com , 6391033507<br><br>📄 Know about my experiences https://avinash-dhuriya.netlify.app/avi.pdf<br><br>⚡ Fun fact I've taken so many photos that my memory card needed a vacation.<br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AviRock) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avirock_kashyap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-dhuriya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@avinash_dhuriya) 
 
